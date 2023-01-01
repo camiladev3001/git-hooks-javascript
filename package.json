@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@eslint/create-config": "^0.4.2",
+    "eslint": "^8.31.0",
     "husky": "^8.0.2",
     "lint-staged": "^13.1.0"
   }
